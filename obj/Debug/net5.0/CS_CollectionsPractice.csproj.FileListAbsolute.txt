@@ -1,0 +1,16 @@
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/bin/Debug/net5.0/CS_CollectionsPractice
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/bin/Debug/net5.0/CS_CollectionsPractice.deps.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/bin/Debug/net5.0/CS_CollectionsPractice.runtimeconfig.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/bin/Debug/net5.0/CS_CollectionsPractice.runtimeconfig.dev.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/bin/Debug/net5.0/CS_CollectionsPractice.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/bin/Debug/net5.0/ref/CS_CollectionsPractice.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/bin/Debug/net5.0/CS_CollectionsPractice.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.csprojAssemblyReference.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.AssemblyInfoInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.AssemblyInfo.cs
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.csproj.CoreCompileInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/ref/CS_CollectionsPractice.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_CollectionsPractice/obj/Debug/net5.0/CS_CollectionsPractice.genruntimeconfig.cache
